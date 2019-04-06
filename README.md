@@ -11,24 +11,24 @@ Para este projeto, você deverá utilizar:
 
 - Node.js
 - Módulo [node-fetch](https://www.npmjs.com/package/node-fetch), para buscar dados da api;
-- Módulo [dotenv](https://www.npmjs.com/package/dotenv), para ler suar variáveis de ambiente;
+- Módulo [dotenv](https://www.npmjs.com/package/dotenv), para ler suas variáveis de ambiente;
 - `.gitignore` para evitar que alguns arquivos ou pastas sejam versionados; 
 - [handlebars](https://handlebarsjs.com/), para as views;
-- Api de notícias do New York Times
+- Api de notícias do `The New York Times`
 
 Importante: Você deverá proteger suas credenciais. Elas não podem aparecer em seu código no github, para isso, utilize os arquivos:
 
-- `.env` para guardar suar variáveis de ambiente e chaves.
+- `.env` para guardar suas variáveis de ambiente e chaves.
 - `.gitignore` para ignorar os arquivos `.env` e `node_modules`
 
 É extremamente importante que você leia a documentação dos módulos  [node-fetch](https://www.npmjs.com/package/node-fetch) e [dotenv](https://www.npmjs.com/package/dotenv) antes de começar a colocar a mão na massa.
 
 
-## Instruções para credenciamento de desenvolvedor no New York Times
+## Instruções para credenciamento de desenvolvedor no `The New York Times`
 
 ### Credenciamento na api do NYT:
 
-Usaremos a API do New York Times. Siga o passo a passo disponível no site para conseguir sua chave de desenvolvedor:
+Usaremos a API do `The New York Times`. Siga o passo a passo disponível no site para conseguir sua chave de desenvolvedor:
 
 https://developer.nytimes.com/get-started
 
