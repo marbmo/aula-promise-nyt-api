@@ -21,6 +21,7 @@ app.get('/articles', (request, response, next) => {
   fetch('https://api.nytimes.com/svc/search/v2/articlesearch.json?q='+request.query.q+'&api-key='+key)
     .then(data => data.json())
     .then(data => {
+      console.log(data.response);
       response.render('articles', data.response);
     });
 });
