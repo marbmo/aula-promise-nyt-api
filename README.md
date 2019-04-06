@@ -14,6 +14,11 @@ Para este projeto, você deverá utilizar:
 - [handlebars](https://handlebarsjs.com/), para as views
 - Api de notícias do New York Times
 
+Importante: Você deverá proteger suas credenciais. Elas não podem aparecer em seu código no github, para isso, utilize os arquivos:
+
+- `.env` para guardar suar variáveis de ambiente e chaves.
+- `.gitignore` para ignorar os arquivos `.env` e `node_modules`. 
+
 ## Instruções para credenciamento de desenvolvedor no New York Times
 
 ### Credenciamento na api do NYT:
