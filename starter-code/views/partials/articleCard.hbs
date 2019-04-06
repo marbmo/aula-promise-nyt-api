@@ -1,0 +1,10 @@
+<div class="article">
+  {{#if this.multimedia.0.url}}
+    <img class="article-img" src="https://www.nytimes.com/{{this.multimedia.0.url}}">
+  {{/if}}
+  <div class="article-info">
+    <h2 class="article-headline">{{this.headline.main}}</h2>
+    <p><b>Snippet:</b> {{this.snippet}}</p>
+    <a href="https://www.nytimes.com/2019/03/03/sports/liverpool-everton-merseyside-derby-salah.html" target="_blank">View Article</a>
+  </div>
+</div>
