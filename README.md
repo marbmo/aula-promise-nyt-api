@@ -1,6 +1,10 @@
 # aula-promise-nyt-api
 Promises e consumo de api
 
+Neste projeto, você deverá entregar um site de busca de notícias. A fonte de dados será o site do jornal `New York Times`.
+
+Nesta primeira etapa, o site deverá ter 2 páginas, uma com o formulário de busca de notícias e outra com o resultado da busca.
+
 ## Pré-requisitos
 
 Para este projeto, você deverá utilizar:
@@ -34,7 +38,7 @@ O projeto deve ter:
 
 2 - Ao clicar no botão `buscar`, o usuário deve ser redirecionado para uma nova página `/search-results`
 
-- A página deve conter o resultado da busca pela palavra chave digitada pelo usuário;
+- A página `/search-results` deve conter o resultado da busca pela palavra chave digitada pelo usuário;
 - Cada notícia encontrada deve conter:
   * imagem;
   * titulo;
