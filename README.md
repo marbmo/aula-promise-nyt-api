@@ -12,10 +12,14 @@ Para este projeto, você deverá utilizar:
 
 ## Instruções para credenciamento de desenvolvedor no New York Times
 
-Usaremos a API do New York Times. Siga o passo a passo disponível no site:
+### Credenciamento na api do NYT:
+
+Usaremos a API do New York Times. Siga o passo a passo disponível no site para conseguir sua chave de desenvolvedor:
+
 https://developer.nytimes.com/get-started
 
-Depois, leia a documentação disponível em:
+### Documentação:
+A documentação da API do NYT está disponível em:
 https://developer.nytimes.com/docs/articlesearch-product/1/overview
 
 
